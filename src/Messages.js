@@ -29,7 +29,7 @@ const Messages = {
       "#jakeliny": ["text-pink-500"],
       "#maykbrito": ["text-green-500"],
       "#thaissacandella": ["text-purple-400"],
-      "#maiattodev": ["text-blue-500"],
+      "#xtecna": ["text-blue-500"],
     }
 
     return channels[name]

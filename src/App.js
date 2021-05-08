@@ -5,7 +5,7 @@ function App() {
   const client = new tmi.Client(
     {
       connection: { reconnect: true },
-      channels: ['maykbrito', 'jakeliny', 'thaissacandella', 'maiattodev']
+      channels: ['maykbrito', 'jakeliny', 'thaissacandella', 'xtecna']
     }
   );
 
