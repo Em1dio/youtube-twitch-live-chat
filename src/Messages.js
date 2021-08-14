@@ -26,7 +26,7 @@ const Messages = {
   },
   channelClasses(name) {
     const channels = {
-      "#vcwild": ["text-blue-500"],
+      "#vcwild": ["text-orange-500"],
       "#em1dio": ["text-blue-500"],
     }
 
